@@ -4,4 +4,8 @@ This is the second line!
 
 This is the third line.
 
-And a final fourth line!!
+<<<<<<< HEAD
+And a final fourth line.
+=======
+And a final fourth line!! This is it.
+>>>>>>> a99be693b43feb40c14c0f0c00ce266ed0b401fc
